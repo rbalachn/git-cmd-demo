@@ -7,6 +7,7 @@ namespace git_cmd_demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("From github");
         }
     }
 }
